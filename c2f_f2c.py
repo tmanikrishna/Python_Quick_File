@@ -12,4 +12,4 @@ Tf = float(input('Enter Temp in Fahrenheit: '))
 
 Tc = f2c(Tf)
 
-print('Tf = ' + str(Tc))
+print(Tc)
